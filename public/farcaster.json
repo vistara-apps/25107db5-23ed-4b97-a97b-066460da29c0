@@ -1,0 +1,17 @@
+{
+  "frame": {
+    "name": "PixelPerfect Studios",
+    "homeUrl": "https://pixelperfect.studio/app",
+    "iconUrl": "https://pixelperfect.studio/icon.png",
+    "version": "vNext",
+    "webhookUrl": "https://api.pixelperfect.studio/webhook/farcaster",
+    "splashImageUrl": "https://pixelperfect.studio/splash.png",
+    "splashBackgroundColor": "#0a1929"
+  },
+  "accountAssociation": {
+    "header": "Sign to connect your Farcaster identity to PixelPerfect Studios.",
+    "payload": {
+      "domain": "pixelperfect.studio"
+    }
+  }
+}
