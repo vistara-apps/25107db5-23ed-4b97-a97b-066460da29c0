@@ -1,0 +1,14 @@
+{
+  "name": "PixelPerfect Studios",
+  "description": "PixelPerfect Studios is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://25107db5-23ed-4b97-a97b-066460da29c0.vercel.app",
+  "properties": {
+    "app": {
+      "name": "PixelPerfect Studios",
+      "description": "PixelPerfect Studios is a Base Mini App built with Zara.",
+      "url": "https://25107db5-23ed-4b97-a97b-066460da29c0.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
